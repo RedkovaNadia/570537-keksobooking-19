@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Надежда Редькова](https://up.htmlacademy.ru/javascript/19/user/570537).
-* Наставник: `Неизвестно`.
+* Наставник: [].
 
 ---
 
